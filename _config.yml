@@ -9,9 +9,9 @@ url: "http://jagalindo.github.io/"     # the base hostname & protocol for your s
 baseurl: ""                   # the subpath of your site, e.g. /blog
 
 author: José A. Galindo
-    name: José Ángel Galindo Duarte
+    name: 
     facebook:
-    scholar: https://scholar.google.es/scholar?scilib=1&hl=en&as_sdt=0,5
+    scholar: 
 
 # Build settings
 markdown: kramdown
