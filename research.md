@@ -63,8 +63,6 @@ workshops:
 #      image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
  
 ---
-You can find a comprenhensive list of my authored publications at research gate [https://www.researchgate.net/profile/Jose_Galindo4]
-
 
 
 ## Journals
@@ -117,6 +115,3 @@ You can find a comprenhensive list of my authored publications at research gate 
 {% if pub.media %}<br />Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
 
 {% endfor %}
-
-
-[https://www.researchgate.net/profile/Jose_Galindo4] : https://www.researchgate.net/profile/Jose_Galindo4
