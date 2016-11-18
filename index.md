@@ -13,7 +13,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 José Ángel Galindo Duarte <br />
 Researcher <br />
 University of Seville<br />
-Email: [mail]
+Email: [jagalindo@us.es]
 
 
-[mail]: jagalindo@us.es
+[jagalindo@us.es]: jagalindo@us.es
