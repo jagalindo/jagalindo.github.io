@@ -64,6 +64,9 @@ workshops:
  
 ---
 You can find a comprenhensive list of my authored publications at research gate [https://www.researchgate.net/profile/Jose_Galindo4]
+
+
+
 ## Journals
 
 {% assign thumbnail="left" %}
@@ -114,3 +117,6 @@ You can find a comprenhensive list of my authored publications at research gate 
 {% if pub.media %}<br />Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
 
 {% endfor %}
+
+
+[https://www.researchgate.net/profile/Jose_Galindo4] : https://www.researchgate.net/profile/Jose_Galindo4
