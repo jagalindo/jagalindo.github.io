@@ -1,5 +1,5 @@
-title: Geeky corner
-description: Much-Worse Jekyll theme for academic page and blog
+title: José A. Galindo
+description: A personal blog
 sourcecode: "https://github.com/gchauras/much-worse-jekyll-theme"
 
 permalink: blog/:year/:month/:day/:title
@@ -43,7 +43,7 @@ analytics:
 # Set 'provider' to false to turn commenting off globally.
 #
 comments:
-    provider:
+    provider: false
     disqus:
       short_name:
     livefyre:
