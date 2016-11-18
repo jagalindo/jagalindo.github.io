@@ -8,10 +8,10 @@ exclude: ["Makefile", "README.md"]
 url: "http://jagalindo.github.io/"     # the base hostname & protocol for your site
 baseurl: ""                   # the subpath of your site, e.g. /blog
 
-author:
-    name:
+author: José A. Galindo
+    name: José Ángel Galindo Duarte
     facebook:
-    scholar:
+    scholar: https://scholar.google.es/scholar?scilib=1&hl=en&as_sdt=0,5
 
 # Build settings
 markdown: kramdown
