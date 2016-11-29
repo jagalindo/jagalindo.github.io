@@ -94,6 +94,11 @@ workshops:
 
 ---
 
+You can access a brief resume at
+* DBLP: http://dblp.uni-trier.de/pers/hd/g/Galindo:Jos=eacute=_A=
+
+* Research gate: https://www.researchgate.net/profile/Jose_Galindo4
+
 
 ## Journals
 
