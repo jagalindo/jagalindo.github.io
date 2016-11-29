@@ -135,7 +135,6 @@ conferences:
 You can access a publications list at
 
 * [DBLP]( http://dblp.uni-trier.de/pers/hd/g/Galindo:Jos=eacute=_A=)
-
 * [Research gate]( https://www.researchgate.net/profile/Jose_Galindo4)
 
 
