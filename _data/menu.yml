@@ -7,8 +7,8 @@
 - title: "Teaching"
   href: "/teaching/"
 
-- title: "About me"
-  href: "/hobbies/"
+#- title: "About me"
+#  href: "/hobbies/"
 
 #- title: "Submenu" esto puede ser para los proyectos
 #  subcategories:
