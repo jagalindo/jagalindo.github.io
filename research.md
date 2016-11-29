@@ -132,10 +132,11 @@ conferences:
 
 ---
 
-You can access a brief resume at
-* DBLP: http://dblp.uni-trier.de/pers/hd/g/Galindo:Jos=eacute=_A=
+You can access a publications list at
 
-* Research gate: https://www.researchgate.net/profile/Jose_Galindo4
+* [DBLP]( http://dblp.uni-trier.de/pers/hd/g/Galindo:Jos=eacute=_A=)
+
+* [Research gate]( https://www.researchgate.net/profile/Jose_Galindo4)
 
 
 ## Journals
